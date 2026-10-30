@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/saiko-dansho",
  "yomi": "さいこうだんしょう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書（聞書）",
+  "era": "鎌倉初期",
+  "author": "西行（談）・蓮阿（記）",
+  "desc": "晩年の西行が伊勢の二見浦に草庵を結んでいた頃の和歌の談話を、弟子の蓮阿が書き留めたもの。歌の詠み方や心構えを伝える。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -102,6 +107,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
